@@ -1,4 +1,4 @@
-# 🏭 Manufacturing Data Analytics Project
++# 🏭 Manufacturing Data Analytics Project
 
 End-to-end Manufacturing Analytics project covering data extraction, transformation, KPI calculation, and dashboard visualization using SQL, Excel, Power BI, and Tableau.
 
@@ -67,6 +67,9 @@ The goal of this project is to analyze plant performance, monitor losses, and im
 - Downtime category analysis
 - Target vs Actual comparison
 - Trend analysis
+
+  
+<img width="1329" height="746" alt="image" src="https://github.com/user-attachments/assets/aa088a60-4490-4666-896a-acb0c3dd5fcc" />
 
 ---
 
